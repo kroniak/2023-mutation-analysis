@@ -332,5 +332,4 @@ ASALocalRun/
 .vscode/tasks.json
 README.md
 lcov.info
-README.md
 test/StrykerOutput
