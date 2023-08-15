@@ -333,3 +333,6 @@ ASALocalRun/
 README.md
 lcov.info
 test/StrykerOutput
+node_modules
+.stryker-tmp
+reports
