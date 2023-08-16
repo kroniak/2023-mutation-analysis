@@ -81,13 +81,13 @@ namespace library
             return limit;
         }
 
-        public static void Some<T>(object arg, IEnumerable<T> list)
+        public static void Some<T>(IEnumerable<T> list)
         {
             // ...
             var result = new List<T>();
             // ...
 
-            if (result.FirstOrDefault() != null)
+            if (result.Count > 0)
             {
                 // ...
             }

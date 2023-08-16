@@ -7,7 +7,7 @@
 
 ## Презентация
 
-[Presentation IBS 2023 Mutation Testing]()
+[Presentation IBS 2023 Mutation Testing](https://disk.yandex.ru/i/NaN8fEADLs1YAQ)
 
 ## Запуск примеров
 
