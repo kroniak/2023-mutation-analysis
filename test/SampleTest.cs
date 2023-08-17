@@ -19,6 +19,17 @@ namespace test
             // Assert
             Assert.False(result);
         }
+        
+        // [Theory]
+        // [InlineData(true, true)]
+        // public void Method_Data_ReturnTrue(bool a, bool b)
+        // {
+        //     // Act
+        //     var result = SampleClass.Method(a, b);
+        //
+        //     // Assert
+        //     Assert.True(result);
+        // }
 
         [Theory]
         [InlineData(false)]
